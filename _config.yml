@@ -40,7 +40,7 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "All Rights Reserved (cleft) 2023-{currentYear} Babb Ltd."
 
 description: >- # this means to ignore newlines until "baseurl:"
   TOOLS FOR WORK. Creators of Workpads.
@@ -160,8 +160,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "Tools for Work"
+#     subheading: "Helping businesses to start, operate and endure."
 #     banner: "Your image url"
 
 # Banner default settings
@@ -218,11 +218,11 @@ yat:
 
 # Gitment comments
 # gitment:
-#   username: "Your GitHub username"
-#   repo: "The repo to store comments"
-#   client_id: "Your client ID"
-#   client_secret: "Your client secret"
-#   redirect_uri: "Your redirect url"   # If you use a custom domain name
+#   username: "Peers8862"
+#   repo: "babbltd/babb-tel-yat"
+#   client_id: "Ov23lifgUJnfVoWfJ4hM"
+#   client_secret: "72a49f357059c36ddf6867b20718e8f196c827d5"
+#   redirect_uri: "https://babb.tel"   # If you use a custom domain name
 
 # Utterances comments
 # See https://utteranc.es/
