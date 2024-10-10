@@ -34,7 +34,7 @@ $brand-color: map-get($brand-colors, "orangered");
 }
 
 $content-width: {{ site.content_width | default: '920px' }};
-$site-title: {{ $site-title | default: '70px'}};
+$site-title: {{ $site-title | default: '110px'}};
 
 // Click to top theme
 $click-to-top-light-background-color: {{ site.click_to_top.light.background_color | default: "white" }};
