@@ -1,12 +1,13 @@
-# menu.yml contents
+<!-- navigation.html contents -->
 
-- name: About
-  url: "/author/"
-- name: Contact
-  url: "/contact/"
-- name: Codelog
-  url: "/codelog/"
-- name: Prot16
-  url: "/schemes/"
-- name: Akademos
-  url: "/akademos/"
+{% assign links = site.data.menu %}
+
+<ul>
+{% for link in links %}
+  <li>
+    <a href="{{ link.url }}">
+      {{ link.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
